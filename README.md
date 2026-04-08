@@ -10,6 +10,7 @@ With a **clean dark interface**, smooth animations, and powerful features, it de
 
 Whether you're testing mechanics, experimenting, or just having fun — Cinderia Trainer makes it effortless.
 
+![Project Screenshot](assets/preview.jpg)
 ---
 
 ## 🚀 Features
